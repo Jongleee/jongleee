@@ -10,6 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongleee&layout=compact)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongleee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
