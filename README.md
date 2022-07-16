@@ -11,7 +11,6 @@
 - ⚡ Fun fact: ...
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongleee&layout=compact)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongleee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongleee&show_icons=true&theme=radical)
+[![Jongleee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jongleeeID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jongleee)
