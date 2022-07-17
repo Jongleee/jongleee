@@ -7,13 +7,13 @@
 
 
 <!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jongleee&theme=dracula&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
@@ -24,12 +24,17 @@
 
 
 
+</div>
 
+<div align="center">
 
-<p align='center'> 
 
 # Hi there 👋
 
-</p>
+ 🌱 I’m currently learning Java
+ 
+</div>
+ 
+-------------
 
 
