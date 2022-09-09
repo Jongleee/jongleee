@@ -34,14 +34,14 @@
  🌱 I’m currently learning Java
  
 </div>
-     <div class="media">
+     <div class="media"align="center">
 	<a href="https://velog.io/@jongleee/"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white" height="25px;"/></a>
     </div>
-<div>
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
+<div>
 -------------
 
 
