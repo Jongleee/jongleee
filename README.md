@@ -16,7 +16,7 @@
 
 <div align="center">
 	
-	![snake gif](https://github.com/Jongleee/Jongleee/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Jongleee/Jongleee/blob/output/github-contribution-grid-snake.svg)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jongleee&theme=dracula&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
