@@ -49,4 +49,8 @@
    </div>
 -------------
 
+<div align="center">
+	
+![snake gif](https://github.com/Jongleee/Jongleee/blob/output/github-contribution-grid-snake.svg)
+
 
