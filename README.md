@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=4d4c99&height=180&section=header&text=Jonglee&fontSize=90&fontColor=111133&animation=twinkling&fontAlignY=38&desc=Lee%20GilJong&descAlignY=56&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4d4c99&height=180&section=header&text=Jonglee&fontSize=90&fontColor=aaaadd&animation=twinkling&fontAlignY=38&desc=Lee%20GilJong&descAlignY=56&descAlign=62)
 
 </div>
 
