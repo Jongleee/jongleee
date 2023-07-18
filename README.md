@@ -52,6 +52,6 @@
 	
 # My Commit 😋
 	
-![snake gif](https://github.com/Jongleee/Jongleee/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Jongleee/Jongleee/blob/output/github-contribution-grid-snake-dark.svg)
 
 
