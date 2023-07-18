@@ -18,33 +18,15 @@ jobs:
     steps:
  
       # 뱀 생성
-#       - name: generate github-contribution-grid-snake.svg
-#         uses: Platane/snk/svg-only@v3
-#         with:
-#           github_user_name: Jongleee
-#           outputs: |
-#             dist/github-contribution-grid-snake.svg
-#             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Jongleee
-          # output branch에 gif, svg를 각각 생성
           outputs: |
-           gif_out_path: dist/github-contribution-grid-snake.gif
-           svg_out_path: dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
- 
-      # 변경사항 push
-#       - name: Push changes
-#         uses: ad-m/github-push-action@master
-#         with:
-#           github_token:  ${{ secrets.TOKEN }}
-#           branch: master
-#           force: true
  
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
