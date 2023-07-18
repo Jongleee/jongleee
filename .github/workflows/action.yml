@@ -33,12 +33,12 @@ jobs:
       - run: git status
  
       # 변경사항 push
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token:  ${{ secrets.TOKEN }}
-          branch: master
-          force: true
+#       - name: Push changes
+#         uses: ad-m/github-push-action@master
+#         with:
+#           github_token:  ${{ secrets.TOKEN }}
+#           branch: master
+#           force: true
  
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
